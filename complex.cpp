@@ -1,8 +1,16 @@
+
 #include "pch.h"
+
 #include "complex.h"
 
-void complex::init(int a, int b, int c, int d, int x, int y)
+
+
+void complex::summ(int a, int b, int c, int d)
+
 {
-	x = a + c;
-	y = b + d;
+
+	sumRe = a + c;
+
+	sumIm = b + d;
+
 }
