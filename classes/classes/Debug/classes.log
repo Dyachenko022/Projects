@@ -1,0 +1,4 @@
+﻿  classes1.cpp
+c:\users\dmitry\source\repos\classes\classes\classes1.cpp(47): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\dmitry\source\repos\classes\classes\classes1.cpp(279): warning C4551: в вызове функции отсутствует список аргументов
+  classes.vcxproj -> C:\Users\Dmitry\source\repos\classes\Debug\classes.exe
